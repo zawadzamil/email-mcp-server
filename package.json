@@ -1,0 +1,20 @@
+{
+  "name": "mail-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.15.1",
+    "dotenv": "^17.2.0",
+    "imapflow": "^1.0.191",
+    "nodemailer": "^7.0.5",
+    "openai": "^5.9.0"
+  }
+}
